@@ -12,5 +12,3 @@ Step 5: open python interpreter
 (Only GPU users)
 Step 6: import torch
 Step 7: print(torch.cuda.is_available())
-
-
